@@ -1,0 +1,36 @@
+body{
+    margin-left:25%;
+    margin-right:30%;
+    margin-top: 0;
+    padding:0;
+    background-color: #ffffff;
+    color:#ffffff59;
+    font-style: italic;
+    font-weight: bold;
+    font-family:Calibri;
+    font-size:16px;
+
+}
+table{
+    border-spacing:0;
+}
+td{
+    padding:0;
+}
+img{
+    border:0;
+}
+p{
+    padding:10px;
+    margin:0 auto;
+    font-family:Calibri;
+    font-size:16px;
+    color:#888787c9;
+}
+
+@media screen and (max-width:600px) {
+
+}
+@media screen and (max-width:400px) {
+
+}
